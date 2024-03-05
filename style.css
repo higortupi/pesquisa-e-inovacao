@@ -1,26 +1,26 @@
 .divA {
     width: 500px;
     height: 500px;
-    background-color: #ffa500;
+    background-color: #ff00aa;
 }
 
 .divFilhaA {
     width: 250px;
     height: 250px;
-    background-color: #90ee90;
+    background-color: #b990ee;
 }
 
 .divB {
     width: 50%;
     height: 50vh;
-    background-color: rgb(128, 255, 212);
+    background-color: rgb(177, 128, 255);
 }
 
 .divFilhaB {
     width: 75vh;
     height: 50%;
-    background-color: rgb(255, 0, 0);
+    background-color: rgb(255, 0, 212);
 }
 p{
-    background-color: red; color: #ffffff; font-family: monospace; font-size: 25px; font-weight: bold;
+    background-color: rgb(103, 21, 105); color: #000000; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; font-size: 35px; font-weight: bold;
 }
