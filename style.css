@@ -1,0 +1,26 @@
+.divA {
+    width: 500px;
+    height: 500px;
+    background-color: #ffa500;
+}
+
+.divFilhaA {
+    width: 250px;
+    height: 250px;
+    background-color: #90ee90;
+}
+
+.divB {
+    width: 50%;
+    height: 50vh;
+    background-color: rgb(128, 255, 212);
+}
+
+.divFilhaB {
+    width: 75vh;
+    height: 50%;
+    background-color: rgb(255, 0, 0);
+}
+p{
+    background-color: red; color: #ffffff; font-family: monospace; font-size: 25px; font-weight: bold;
+}
